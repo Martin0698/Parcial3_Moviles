@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Principal">
+        <menu>
+            <item
+                android:id="@+id/home"
+                android:icon="@drawable/ic_home"
+                android:title="Home">
+
+
+            </item>
+            <item
+                android:id="@+id/Make-appoi"
+                android:icon="@drawable/ic_calendar"
+                android:title="Make appointment">
+
+
+            </item>
+            <item
+                android:id="@+id/Location"
+                android:icon="@drawable/ic_location"
+                android:title="Location">
+
+
+            </item>
+            <item
+                android:id="@+id/Login"
+                android:icon="@drawable/ic_login"
+                android:title="Log in">
+
+
+            </item>
+
+        </menu>
+
+
+    </item>
+</menu>
